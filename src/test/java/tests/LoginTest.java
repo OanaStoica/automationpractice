@@ -27,6 +27,8 @@ public class LoginTest extends BaseTest {
         Assert.assertEquals(expectedloginpagevalue,actualloginpagevalue);
 
 
+        
+
 //        driver.findElement(By.xpath("//input[@ ng-model='Email']")).sendKeys("oana_maria_stoica@yahoo.com");
 //
 //        driver.findElement(By.xpath("//input[@ ng-model='Password']")).sendKeys("Parola123");
